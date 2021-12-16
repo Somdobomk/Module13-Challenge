@@ -18,8 +18,9 @@
 	},
 	"homepage": "https://github.com/Somdobomk/Module13-Challenge#readme",
 	"dependencies": {
-		"console.table": "^0.10.0",
-		"inquirer": "^8.2.0",
-		"mysql2": "^2.3.2"
+		"dotenv": "^10.0.0",
+		"express": "^4.17.1",
+		"mysql2": "^2.3.3",
+		"sequelize": "^6.11.0"
 	}
 }

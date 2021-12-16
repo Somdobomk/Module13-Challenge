@@ -20,7 +20,19 @@
 
 ## About <a name = "about"></a>
 
-Write about 1-2 paragraphs describing the purpose of your project.
+This project is a simple e-commerce website that is built with the following technologies:
+
+- [Node.js](https://nodejs.org/en/)
+- [Express](https://expressjs.com/)
+- [MySQL](https://www.mysql.com/)
+- [Sequelize](https://sequelize.org/)
+
+The database is MySQL and the server is Node.js. The database has 4 tables:
+
+    - [products](#products)
+    - [tags](#tags)
+    - [product_tags](#product_tags)
+    - [category](#category)
 
 ## Getting Started <a name = "getting_started"></a>
 
